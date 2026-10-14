@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.HyperBit" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/desk</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+    <color name="desk">#FF0D0221</color>
+    <color name="icon_bg">#FF0D0221</color>
+</resources>

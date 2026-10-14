@@ -1,0 +1,15 @@
+HyperBit keeps the classic desktop layout (menu bar, paged home window, taskbar, app list) and redraws it retro-futuristic: glowing neon outlines on glass, a synthwave sun over a scrolling grid, circuit traces, digital rain, scanlines. Icons get the same treatment: neon duotone, hologram or wireframe.
+
+<b>Neon desktop</b>: Glass windows with neon edges and glow, bracket or scanline window styles, a menu bar and info line, real pages with a scroll bar, drag to move icons.
+
+<b>Live backdrops</b>: Synthwave grid and sun, hex, circuit, rain, dots or plain, animated at 30 fps only while home is visible; optional scanlines and vignette.
+
+<b>HD icons</b>: Neon duotone, hologram, wireframe, glyph (from the app's themed icon), pixel or original, drawn at 192 px with a halo.
+
+<b>Presets</b>: Synthwave, Night city, Vapor, Ghost, Phosphor, Amber, Redline and Ice, or your own neon, glass, backdrop and accent colours.
+
+<b>Fonts</b>: Chakra Petch, Orbitron, Share Tech Mono and VT323.
+
+<b>Privacy</b>: HyperBit has no internet permission: it cannot connect anywhere. No account, no analytics, no ads, no tracking.
+
+Source code and issues: https://github.com/AndSni/HyperBit-Launcher
