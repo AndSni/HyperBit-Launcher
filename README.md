@@ -55,6 +55,15 @@ local `assembleRelease` produces an unsigned APK.
    with `HyperBit-Launcher.apk`, the file `.fdroid.yml`'s `Binaries` points at.
 4. Pin the tagged commit's full hash in `.fdroid.yml` (`commit:`), bump `CurrentVersion`.
 
+## Support HyperBit
+
+HyperBit is free, open source and has no ads, and it stays that way. If you enjoy it, you can help:
+
+- ☕ **[Buy me a coffee on Ko-fi](https://ko-fi.com/asnidev).** No account needed: pay with
+  Google Pay, Apple Pay, a card or PayPal.
+- ⭐ Star this repository and tell others about it.
+- Report bugs and ideas in [Issues](https://github.com/AndSni/HyperBit-Launcher/issues).
+
 ## Credits
 
 - Fonts: [Chakra Petch](https://fonts.google.com/specimen/Chakra+Petch), [Orbitron](https://fonts.google.com/specimen/Orbitron), [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono), [VT323](https://fonts.google.com/specimen/VT323) (SIL OFL 1.1)
